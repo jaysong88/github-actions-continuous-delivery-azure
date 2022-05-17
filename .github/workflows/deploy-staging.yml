@@ -12,7 +12,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: jaysong88-ttt-app
+  AZURE_WEBAPP_NAME: jaysong88
   #################################################
     
 jobs:
